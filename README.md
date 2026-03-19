@@ -135,7 +135,7 @@ The deep learning model achieved **excellent performance** on the dataset.
 * Handles class imbalance effectively
 * Performs well under different image conditions
 
-### 🧪 Model Evaluation (Optional)
+### 🧪 Model Evaluation 
 
 <img width="815" height="674" alt="image" src="https://github.com/user-attachments/assets/ad545b28-93ad-4abe-962f-9a6ef80a154b" />
 
@@ -144,11 +144,9 @@ The deep learning model achieved **excellent performance** on the dataset.
 
 ## 📸 Output Screenshots
 
-(Add your UI and prediction screenshots here)
+<img width="882" height="902" alt="image" src="https://github.com/user-attachments/assets/eb1b7494-67a2-404a-ba28-cfee55ee1ff0" />
 
-```bash id="f3m7l0"
-![Output](output.png)
-```
+<img width="1187" height="832" alt="image" src="https://github.com/user-attachments/assets/af64c84d-752b-4213-8071-bf636e34e2c4" />
 
 ---
 
