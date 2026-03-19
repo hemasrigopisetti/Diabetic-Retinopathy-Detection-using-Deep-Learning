@@ -13,7 +13,7 @@ This project uses deep learning techniques to detect diabetic retinopathy from r
 
 ## 🚀 Features
 
-✔ Automated disease detection
+✔ Automated disease detection\n
 ✔ Deep learning-based classification
 ✔ User-friendly interface
 ✔ Accurate prediction system
