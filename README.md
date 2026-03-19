@@ -137,11 +137,8 @@ The deep learning model achieved **excellent performance** on the dataset.
 
 ### 🧪 Model Evaluation (Optional)
 
-(Add your confusion matrix / graphs here)
+<img width="815" height="674" alt="image" src="https://github.com/user-attachments/assets/ad545b28-93ad-4abe-962f-9a6ef80a154b" />
 
-```bash id="f8yp4v"
-![Confusion Matrix](confusion_matrix.png)
-```
 
 ---
 
